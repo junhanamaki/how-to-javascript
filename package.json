@@ -1,0 +1,19 @@
+{
+  "name": "how-to-javascript",
+  "version": "1.0.0",
+  "description": "Sample project",
+  "main": "index.js",
+  "scripts": {
+    "build": "node_modules/.bin/webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jun.hanamaki",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^1.12.11",
+    "webpack-dev-server": "^1.14.1"
+  },
+  "dependencies": {
+    "lodash": "^4.0.0"
+  }
+}
