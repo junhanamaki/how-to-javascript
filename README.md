@@ -8,11 +8,11 @@ Sample code for []()
 
 2. Install project dependencies running:
 
-    $ npm install
+        $ npm install
 
 3. Bundle source code:
 
-    $ node_modules/.bin/webpack src/index.js dist/index.js
+        $ node_modules/.bin/webpack src/index.js dist/index.js
 
 4. Open index.html in a browser to see bundled file result
 
