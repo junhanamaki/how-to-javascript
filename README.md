@@ -6,7 +6,7 @@ Sample code for []()
 
 1. Install [Node.js](https://nodejs.org/) if not installed
 
-2. Install project dependencies running:
+2. In the root folder of this project, install dependencies running:
 
         $ npm install
 
@@ -14,7 +14,7 @@ Sample code for []()
 
         $ node_modules/.bin/webpack src/index.js dist/index.js
 
-4. Open index.html in a browser to see bundled file result
+4. Open index.html in a browser to see result
 
 ## Contributing
 
