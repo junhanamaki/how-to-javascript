@@ -1,6 +1,6 @@
 # how-to-javascript
 
-Sample code for [How to JavaScript? Part 1](https://medium.com/@jun.hanamaki/how-to-javascript-or-yet-another-javascript-guide-part-1-introduction-a531a21facc6#.3rgiqbl2w) guide in medium
+Sample code for [How to JavaScript? Part 2]() guide in medium
 
 ## Execute
 
