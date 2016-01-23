@@ -1,6 +1,6 @@
 # how-to-javascript
 
-Sample code for []()
+Sample code for [guide in medium](https://medium.com/@jun.hanamaki/how-to-javascript-or-yet-another-javascript-guide-part-1-introduction-a531a21facc6#.3rgiqbl2w)
 
 ## Execute
 
