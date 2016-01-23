@@ -12,9 +12,13 @@ Sample code for [How to JavaScript? Part 2]() guide in medium
 
 3. Bundle source code:
 
-        $ node_modules/.bin/webpack src/index.js dist/index.js
+        $ npm run build
 
 4. Open index.html in a browser to see result
+
+5. Clear dist folder doing:
+
+        $ npm run clear
 
 ## Contributing
 
