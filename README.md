@@ -1,6 +1,6 @@
 # how-to-javascript
 
-Sample code for [How to JavaScript? Part 2]() guide in medium
+Sample code for [How to JavaScript? Part 3]() guide in medium
 
 ## Execute
 
