@@ -1,6 +1,6 @@
 # how-to-javascript
 
-Sample code for [How to JavaScript? Part 3](https://medium.com/@jun.hanamaki/how-to-javascript-or-yet-another-javascript-guide-part-3-linting-3589d7c23643#.5mrs0dwno) guide in medium
+Sample code for [How to JavaScript? Part 4]() guide in medium
 
 ## Execute
 
@@ -10,15 +10,11 @@ Sample code for [How to JavaScript? Part 3](https://medium.com/@jun.hanamaki/how
 
         $ npm install
 
-3. Bundle source code:
+3. Start project server:
 
-        $ npm run build
+        $ npm start
 
-4. Open index.html in a browser to see result
-
-5. Clear dist folder doing:
-
-        $ npm run clear
+4. Open http://localhost:8080/webpack-dev-server, and click in link that says webpack-dev-server
 
 ## Contributing
 
