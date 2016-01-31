@@ -1,6 +1,6 @@
 # how-to-javascript
 
-Sample code for [How to JavaScript? Part 4]() guide in medium
+Sample code for [How to JavaScript? Part 4](https://medium.com/@jun.hanamaki/how-to-javascript-or-yet-another-javascript-guide-part-4-webpack-dev-server-fc01143e7d5a#.dixynku39) guide in medium
 
 ## Execute
 
