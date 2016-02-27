@@ -1,6 +1,6 @@
-# how-to-javascript
+# Part 8 - Code coverage
 
-Sample code for [How to JavaScript? Part 8]() guide in medium
+Code from [How to JavaScript? Part 8]()
 
 ## Setup
 

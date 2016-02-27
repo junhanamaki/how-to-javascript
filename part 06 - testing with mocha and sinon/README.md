@@ -1,6 +1,6 @@
-# how-to-javascript
+# Part 6 - testing with mocha and sinon
 
-Sample code for [How to JavaScript? Part 6](https://medium.com/@jun.hanamaki/how-to-javascript-or-yet-another-javascript-guide-part-6-testing-with-mocha-and-sinon-d879178f85f0#.hf5eon9te)
+Code from [How to JavaScript? Part 6](https://medium.com/@jun.hanamaki/how-to-javascript-or-yet-another-javascript-guide-part-6-testing-with-mocha-and-sinon-d879178f85f0#.hf5eon9te)
 
 ## Setup
 

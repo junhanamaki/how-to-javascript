@@ -1,6 +1,6 @@
-# how-to-javascript
+# Part 2 - npm and webpack
 
-Sample code for [How to JavaScript? Part 2](https://medium.com/@jun.hanamaki/how-to-javascript-or-yet-another-javascript-guide-part-2-npm-and-webpack-extended-f6355b0e3301#.cfu3nbesv)
+Code from [How to JavaScript? Part 2](https://medium.com/@jun.hanamaki/how-to-javascript-or-yet-another-javascript-guide-part-2-npm-and-webpack-extended-f6355b0e3301#.cfu3nbesv)
 
 ## Execute
 

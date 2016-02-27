@@ -1,6 +1,6 @@
-# how-to-javascript
+# Part 7 - Running tests with Karma
 
-Sample code for [How to JavaScript? Part 7]() guide in medium
+Code from [How to JavaScript? Part 7]()
 
 ## Setup
 

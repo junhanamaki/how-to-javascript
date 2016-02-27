@@ -1,8 +1,18 @@
 # How to JavaScript
 
-A repository for the code resulting from the How to JavaScript articles
+Code from How to JavaScript guide in medium.
 
-## Links
+[Part 1 - Introduction](https://medium.com/@jun.hanamaki/how-to-javascript-or-yet-another-javascript-guide-part-1-introduction-a531a21facc6#.3rgiqbl2w)
+
+[Part 2 - npm and webpack](https://medium.com/@jun.hanamaki/how-to-javascript-or-yet-another-javascript-guide-part-2-npm-and-webpack-extended-f6355b0e3301#.cfu3nbesv)
+
+[Part 3 - Linting](https://medium.com/@jun.hanamaki/how-to-javascript-or-yet-another-javascript-guide-part-3-linting-3589d7c23643#.5mrs0dwno)
+
+[Part 4 - webpack-dev-server](https://medium.com/@jun.hanamaki/how-to-javascript-or-yet-another-javascript-guide-part-4-webpack-dev-server-fc01143e7d5a#.dixynku39)
+
+[Part 5 - ES6 and beyond with Babel](https://medium.com/@jun.hanamaki/how-to-javascript-or-yet-another-javascript-guide-part-5-es6-and-beyond-with-babel-b5e51da2afcc#.oqmjqhk8x)
+
+[Part 6 - Testing with Mocha and Sinon](https://medium.com/@jun.hanamaki/how-to-javascript-or-yet-another-javascript-guide-part-6-testing-with-mocha-and-sinon-d879178f85f0#.hf5eon9te)
 
 ## Contributing
 

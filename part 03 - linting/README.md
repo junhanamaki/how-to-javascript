@@ -1,6 +1,6 @@
-# how-to-javascript
+# Part 3 - linting
 
-Sample code for [How to JavaScript? Part 3](https://medium.com/@jun.hanamaki/how-to-javascript-or-yet-another-javascript-guide-part-3-linting-3589d7c23643#.5mrs0dwno)
+Code from [How to JavaScript? Part 3](https://medium.com/@jun.hanamaki/how-to-javascript-or-yet-another-javascript-guide-part-3-linting-3589d7c23643#.5mrs0dwno)
 
 ## Execute
 

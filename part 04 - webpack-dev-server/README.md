@@ -1,6 +1,6 @@
-# how-to-javascript
+# Part 4 - webpack-dev-server
 
-Sample code for [How to JavaScript? Part 4](https://medium.com/@jun.hanamaki/how-to-javascript-or-yet-another-javascript-guide-part-4-webpack-dev-server-fc01143e7d5a#.dixynku39)
+Code from [How to JavaScript? Part 4](https://medium.com/@jun.hanamaki/how-to-javascript-or-yet-another-javascript-guide-part-4-webpack-dev-server-fc01143e7d5a#.dixynku39)
 
 ## Execute
 
