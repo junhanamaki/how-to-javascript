@@ -16,7 +16,7 @@ Code from [How to JavaScript? Part 6](https://medium.com/@jun.hanamaki/how-to-ja
 
         $ npm start
 
-2. Open http://localhost:8080/webpack-dev-server, and click in link that says webpack-dev-server
+2. Open [http://localhost:8080/webpack-dev-server/bundle](http://localhost:8080/webpack-dev-server/bundle)
 
 ## Tests
 
