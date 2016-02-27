@@ -14,6 +14,8 @@ Code from How to JavaScript guide in medium:
 
 [Part 6 - Testing with Mocha and Sinon](https://medium.com/@jun.hanamaki/how-to-javascript-or-yet-another-javascript-guide-part-6-testing-with-mocha-and-sinon-d879178f85f0#.hf5eon9te)
 
+[Part 7 - Running tests with Karma](https://medium.com/@jun.hanamaki/how-to-javascript-or-yet-another-javascript-guide-part-7-running-tests-with-karma-45d3ac1dfb5f#.nlndec97f)
+
 ## Contributing
 
 1. Fork it ( https://github.com/junhanamaki/how-to-javascript/fork )
