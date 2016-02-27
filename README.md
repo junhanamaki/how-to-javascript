@@ -1,6 +1,6 @@
 # How to JavaScript
 
-Code from How to JavaScript guide in medium.
+Code from How to JavaScript guide in medium:
 
 [Part 1 - Introduction](https://medium.com/@jun.hanamaki/how-to-javascript-or-yet-another-javascript-guide-part-1-introduction-a531a21facc6#.3rgiqbl2w)
 
