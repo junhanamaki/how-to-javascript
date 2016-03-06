@@ -1,6 +1,6 @@
 # Part 8 - Code coverage
 
-Code from [How to JavaScript? Part 8]()
+Code from [How to JavaScript? Part 8](https://medium.com/@jun.hanamaki/how-to-javascript-or-yet-another-javascript-guide-part-8-code-coverage-ae44fc997eb8#.hlef2zf7p)
 
 ## Setup
 
