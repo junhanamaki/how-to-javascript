@@ -1,5 +1,7 @@
 const path = require('path');
 
+const PRODUCTION = process.env.NODE_ENV === 'production';
+
 module.exports = {
   entry: path.resolve(__dirname, 'src/index.js'),
   output: {
@@ -22,5 +24,5 @@ module.exports = {
       }
     ]
   },
-  devtool: 'inline-source-map'
+  devtool: PRODUCTION ? '' : 'inline-source-map'
 };
