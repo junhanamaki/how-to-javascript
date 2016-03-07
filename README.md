@@ -16,6 +16,8 @@ Code from How to JavaScript guide in medium:
 
 [Part 7 - Running tests with Karma](https://medium.com/@jun.hanamaki/how-to-javascript-or-yet-another-javascript-guide-part-7-running-tests-with-karma-45d3ac1dfb5f#.nlndec97f)
 
+[Part 8 - Code coverage](https://medium.com/@jun.hanamaki/how-to-javascript-or-yet-another-javascript-guide-part-8-code-coverage-ae44fc997eb8#.67oromx83)
+
 ## Contributing
 
 1. Fork it ( https://github.com/junhanamaki/how-to-javascript/fork )
