@@ -1,6 +1,6 @@
-# Part 8 - Code coverage
+# Part 9 - Generating Library
 
-Code from [How to JavaScript? Part 8](https://medium.com/@jun.hanamaki/how-to-javascript-or-yet-another-javascript-guide-part-8-code-coverage-ae44fc997eb8#.hlef2zf7p)
+Code from [How to JavaScript? Part 9]()
 
 ## Setup
 
@@ -16,7 +16,9 @@ Code from [How to JavaScript? Part 8](https://medium.com/@jun.hanamaki/how-to-ja
 
         $ npm start
 
-2. Open [http://localhost:8080/webpack-dev-server/bundle](http://localhost:8080/webpack-dev-server/bundle)
+2. Open [http://localhost:8080/bundle](http://localhost:8080/bundle)
+
+3. Open console and mess around with Popup class
 
 ## Tests
 
