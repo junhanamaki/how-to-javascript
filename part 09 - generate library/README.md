@@ -18,7 +18,7 @@ Code from [How to JavaScript? Part 9]()
 
 2. Open [http://localhost:8080/bundle](http://localhost:8080/bundle)
 
-3. Open console and mess around with Popup class
+3. Open console and mess around with the Popup class
 
 ## Tests
 
