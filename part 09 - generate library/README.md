@@ -20,6 +20,12 @@ Code from [How to JavaScript? Part 9]()
 
 3. Open console and mess around with the Popup class
 
+## Build
+
+1. Run rebuild command, build files will be available under dist:
+
+        $ npm run rebuild
+
 ## Tests
 
 1. Run tests with:
