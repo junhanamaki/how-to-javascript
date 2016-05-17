@@ -1,6 +1,6 @@
 # Part 9 - Generating Library
 
-Code from [How to JavaScript? Part 9]()
+Code from [How to JavaScript? Part 9](https://medium.com/@jun.hanamaki/how-to-javascript-or-yet-another-javascript-guide-part-9-generating-a-library-with-webpack-7c68ed051720#.5dvsnf3bm)
 
 ## Setup
 
