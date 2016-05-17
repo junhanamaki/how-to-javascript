@@ -5,7 +5,10 @@
   "main": "index.js",
   "scripts": {
     "start": "node_modules/.bin/webpack-dev-server --progress",
-    "build": "node_modules/.bin/webpack",
+    "rebuild": "npm run clear & npm run build",
+    "build": "npm run build:dev & npm run build:prod",
+    "build:dev": "NODE_ENV=dev_bundle node_modules/.bin/webpack",
+    "build:prod": "NODE_ENV=prod_bundle node_modules/.bin/webpack",
     "clear": "rm -rf dist",
     "test": "node_modules/.bin/mocha --compilers js:babel-register",
     "test:browser": "node_modules/.bin/karma start"
